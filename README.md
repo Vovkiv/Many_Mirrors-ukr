@@ -4,7 +4,7 @@
 Після поразки короля Сомбри, кришталева поні міркує про свою новознайдену свободу.
 
 # Як відкрити? Де фанфік?
-пдф файл: https://github.com/Vovkiv/fanfic-translation-template/blob/main/fic-ukr.pdf
+пдф файл: https://github.com/Vovkiv/Many_Mirrors-ukr/blob/main/Many%20Mirrors%20-%20ukr.pdf
 
 Ви його можете одразу читати його у гітхабі, або можете завантажити.
 
