@@ -1,10 +1,10 @@
 # Багато дзеркал - Українською
-![обкладинка](https://github.com/Vovkiv/Many_Mirrors-ukr/blob/main/src/cover-ukr.png?raw=true)
+![](src/cover-ukr.png)
 
 Після поразки короля Сомбри, кришталева поні міркує про свою новознайдену свободу.
 
 # Як відкрити? Де фанфік?
-пдф файл: https://github.com/Vovkiv/Many_Mirrors-ukr/blob/main/Many%20Mirrors%20-%20ukr.pdf
+[пдф файл](Many%20Mirrors%20-%20ukr.pdf)
 
 Ви його можете одразу читати його у гітхабі, або можете завантажити.
 
@@ -29,13 +29,13 @@
 Тоді ви можете написати мені тут: [Contacts](https://github.com/Vovkiv/mlp_fics_that_i_plan_to_translate/tree/main#contacts)
 
 # Original fic:
-https://www.fimfiction.net/story/536937/many-mirrors
+[https://www.fimfiction.net/story/536937/many-mirrors](https://www.fimfiction.net/story/536937/many-mirrors)
 
 # Original cover:
-https://cdn-img.fimfiction.net/story/m8er-1685914145-536937-full
+[https://cdn-img.fimfiction.net/story/m8er-1685914145-536937-full](https://cdn-img.fimfiction.net/story/m8er-1685914145-536937-full)
 
 # Слідкувати за процесом перекладу і іншими фанфіками, які я вже переклав можна тут:
-https://github.com/Vovkiv/mlp_fics_that_i_plan_to_translate
+[https://github.com/Vovkiv/mlp_fics_that_i_plan_to_translate](https://github.com/Vovkiv/mlp_fics_that_i_plan_to_translate)
 
 # Гітхаб теги:
 translation fanfiction mlp ukrainian volkov
